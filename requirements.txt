@@ -1,0 +1,11 @@
+beautifulsoup4
+bs4
+matplotlib
+nltk
+numpy
+pandas
+requests
+scikit-learn
+streamlit
+wordcloud
+youtube-comment-downloader
